@@ -1,4 +1,4 @@
-package HW1.HW2;
+package HW2;
 
 public class ExceptionMain {
     public static void main(String[] args) {
